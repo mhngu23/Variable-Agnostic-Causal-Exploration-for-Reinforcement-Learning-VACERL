@@ -1,8 +1,0 @@
-Eval num_timesteps=200000, average_episode_reward=-100.00 +/- 0.00
-Episode length: 100.0 +/- 0.00
-Eval num_timesteps=200000, average_episode_reward=-98.00 +/- 14.00
-Episode length: 100.0 +/- 0.00
-Eval num_timesteps=400000, average_episode_reward=-94.00 +/- 23.75
-Episode length: 100.0 +/- 0.00
-Eval num_timesteps=600000, average_episode_reward=-94.00 +/- 23.75
-Episode length: 100.0 +/- 0.00

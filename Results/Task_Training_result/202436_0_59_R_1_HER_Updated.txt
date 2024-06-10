@@ -1,2 +1,0 @@
-Eval num_timesteps=10000, average_episode_reward=-99.06 +/- 2.65
-Episode length: 100.0 +/- 0.00
