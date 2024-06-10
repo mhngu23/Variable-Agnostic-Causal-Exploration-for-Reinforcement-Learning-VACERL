@@ -1,0 +1,4 @@
+Eval num_timesteps=1000000, average_episode_reward=0.00 +/- 0.00
+Episode length: 1000.0 +/- 0.00
+Eval num_timesteps=2000000, average_episode_reward=0.00 +/- 0.00
+Episode length: 1000.0 +/- 0.00

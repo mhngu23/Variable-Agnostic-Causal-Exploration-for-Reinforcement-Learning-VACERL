@@ -1,0 +1,14 @@
+Eval num_timesteps=10000, average_episode_reward=0.22 +/- 0.41
+Episode length: 362.14 +/- 221.08
+Eval num_timesteps=10000, average_episode_reward=0.06 +/- 0.24
+Episode length: 431.62 +/- 169.51
+Eval num_timesteps=20000, average_episode_reward=0.22 +/- 0.41
+Episode length: 381.66 +/- 210.65
+Eval num_timesteps=20000, average_episode_reward=0.34 +/- 0.47
+Episode length: 322.68 +/- 236.47
+Eval num_timesteps=30000, average_episode_reward=0.30 +/- 0.46
+Episode length: 321.88 +/- 237.51
+Eval num_timesteps=30000, average_episode_reward=0.12 +/- 0.32
+Episode length: 420.82 +/- 181.43
+Eval num_timesteps=40000, average_episode_reward=0.24 +/- 0.43
+Episode length: 352.36 +/- 225.56
