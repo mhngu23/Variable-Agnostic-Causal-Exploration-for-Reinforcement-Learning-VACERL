@@ -1,6 +1,9 @@
 # Variable-Agnostic-Causal-Exploration-for-Reinforcement-Learning-VACERL
 
 This is the codebase for the paper Variable-Agnostic-Causal-Exploration-for-Reinforcement-Learning published at ECML PKDD 2024
+
+![VACERL](image/framework.png)
+
 # Overview 
 VACERL is a novel reinforcement learning algorithm designed to explore environments by leveraging variable-agnostic causal discovery techniques. This approach allows the agent to build a causal hierarchy, enhancing its ability to make informed decisions and improve learning efficiency.
 
@@ -21,6 +24,8 @@ To run VACERL with a specific set of parameters, use the following command:
 python main.py --env MG_1 --render-mode rgb_array --algorithm HER --seed_type multi --reward 0.0001 --buffer-size-causal-discovery 50 --number_attention 70 --state_diff_attention 0.9 --state_diff_policy 0.85 --alteration-index 10 --training_f 600 --training_s 600 --total_timestep 10000000 --head_timestep 500000 --loop 20
 ```
 
+# Example 
+You can also refer to this [link](https://github.com/mhngu23/Intrinsic-Reward-Motivati-Reinforcement-Learning-Re-Implementation/blob/main/Advanced_Method.ipynb) or [link](https://github.com/rl-memory-exploration-tutorial/rl-memory-exploration-tutorial.github.io/tree/main/resources/code/partC) for the notebook implementation of VACERL with visualization of a single run on FL environment.
 
 # Citation
 To cite the paper 
