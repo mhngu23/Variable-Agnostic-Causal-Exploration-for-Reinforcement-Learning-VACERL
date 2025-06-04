@@ -1,4 +1,4 @@
-# Variable-Agnostic-Causal-Exploration-for-Reinforcement-Learning-VACERL
+# [ECML/PKDD 2024] Variable-Agnostic-Causal-Exploration-for-Reinforcement-Learning-VACERL
 
 This is the codebase for the paper Variable-Agnostic-Causal-Exploration-for-Reinforcement-Learning published at ECML PKDD 2024 (link to paper: https://link.springer.com/chapter/10.1007/978-3-031-70344-7_13 or https://arxiv.org/pdf/2407.12437)
 
